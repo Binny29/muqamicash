@@ -1,0 +1,1 @@
+[07-Feb-2020 18:20:39 America/New_York] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 30978048 bytes) in /home/thepwsdz/api.muqamicash.com/api/earning_history.php on line 30
